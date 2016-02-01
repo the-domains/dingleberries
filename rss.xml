@@ -4,11 +4,18 @@
         <description><![CDATA[dingleberries]]></description>
         <link>https://thegrid.ai/dingleberries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 05:33:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dingleberries/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cats]]></title>
+            <description><![CDATA[<article><h1>Cats</h1><p>Meow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16480218cf0a0760e38bb939bf6d718f9e0999a5.png"></article>]]></description>
+            <link>https://thegrid.ai/dingleberries/cats/index.html</link>
+            <guid isPermaLink="false">ae39e2a8-e0e4-42c6-89d0-a04ba72e5c36</guid>
+            <pubDate>Mon, 01 Feb 2016 05:33:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snack Pack]]></title>
-            <description><![CDATA[<article><h1>Snack Pack</h1><p>yums!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f345456f75e581582d9ceca2c46ebeab144749.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Snack Pack</h1><p>yums!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5cba8ea626f5a5da091a0d0e9a1c0d3f40fe501.jpg"></article>]]></description>
             <link>https://thegrid.ai/dingleberries/snack-pack/index.html</link>
             <guid isPermaLink="false">55a2447b-433e-4349-a05f-1198b9bbdd1f</guid>
             <pubDate>Mon, 01 Feb 2016 05:33:38 GMT</pubDate>
